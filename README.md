@@ -4,8 +4,6 @@
   <img src="https://media.giphy.com/media/9nuXRx5EfGsKc/giphy.gif" width="45px">
 </h1>
 
-<br>
-
 <p align="center">
   <a href="https://t.me/rewoooop"><img src="https://img.icons8.com/clouds/100/000000/telegram-app.png" alt="telegram"/></a>
   <a href="https://vk.com/rewoop"><img src="https://img.icons8.com/clouds/100/000000/vk-com.png" alt="vk"/></a>
@@ -14,8 +12,6 @@
   <a href="https://steamcommunity.com/id/rewoop/"><img src="https://img.icons8.com/clouds/100/000000/steam.png" alt="steam"/></a>
   <a href="https://github.com/rewoop"><img src="https://img.icons8.com/clouds/100/000000/github.png" alt="github"/></a>
 </p>
-
-<br>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/WSCNSbSgg7LqtqJ2h8/giphy.gif" width="90">
@@ -39,8 +35,6 @@ const rewoop = {
 availableForHire: true
 }
 ```
-
-<br>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/ZccS9Dpzegut1Fcq2c/giphy.gif" width="50">
