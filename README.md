@@ -41,4 +41,10 @@ availableForHire: true
   <img src="https://media.giphy.com/media/ZccS9Dpzegut1Fcq2c/giphy.gif" width="50">
 </h2>
 
-![rewoop's github stats](https://github-readme-stats.vercel.app/api?username=rewoop&show_icons=true&hide_border=true&line_height=25&hide_title=true&theme=radical)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rewoop&show_icons=true&hide_border=true&line_height=25&hide_title=true&theme=radical" alt="Rewoop's github stats" />
+</a>
+  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rewoop&layout=compact&hide_border=true&theme=radical" alt="Rewoop's github stats" />
+</a>
