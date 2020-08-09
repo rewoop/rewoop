@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://t.me/rewoooop"><img src="https://img.icons8.com/clouds/100/000000/telegram-app.png" alt="telegram"/></a>
   <a href="https://vk.com/rewoop"><img src="https://img.icons8.com/clouds/100/000000/vk-com.png" alt="vk"/></a>
-  <a href="https://instagram.com/serejathecreator"><img src="https://img.icons8.com/clouds/050/000000/instagram-new--v2.png" alt="instagram"/></a>
-  <a href="https://twitter.com/rewoooop"><img src="https://img.icons8.com/clouds/050/000000/twitter.png" alt="twitter"/></a>
+  <a href="https://instagram.com/serejathecreator"><img src="https://img.icons8.com/clouds/100/000000/instagram-new--v2.png" alt="instagram"/></a>
+  <a href="https://twitter.com/rewoooop"><img src="https://img.icons8.com/clouds/100/000000/twitter.png" alt="twitter"/></a>
   <a href="https://steamcommunity.com/id/rewoop/"><img src="https://img.icons8.com/clouds/100/000000/steam.png" alt="steam"/></a>
   <a href="https://github.com/rewoop"><img src="https://img.icons8.com/clouds/100/000000/github.png" alt="github"/></a>
 </p>
