@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/rewoop/rewoop/master/wave.gif" width="40px">
-  <strong> Hello There, I'm Filonenko Sergey.</strong>
+  <strong> Hello There, I'm Filonenko Sergey</strong>
   <img src="https://media.giphy.com/media/9nuXRx5EfGsKc/giphy.gif" width="45px">
 </h1>
 
