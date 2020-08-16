@@ -28,7 +28,7 @@ const rewoop = {
   experiences: [
     {
       company : "HTML Academy",
-      post : "Student"
+      post : "Mentor"
     }
   ],
 availableForHire: true
