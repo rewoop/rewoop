@@ -31,7 +31,7 @@ const rewoop = {
       post : "JavaScript developer"
     }
   ],
-availableForHire: true
+availableForHire: false
 }
 ```
 
