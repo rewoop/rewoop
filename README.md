@@ -6,10 +6,6 @@
 
 <p align="center">
   <a href="https://t.me/rewoooop"><img src="https://img.icons8.com/clouds/150/000000/telegram-app.png" alt="telegram"/></a>
-  <a href="https://vk.com/rewoop"><img src="https://img.icons8.com/clouds/150/000000/vk-com.png" alt="vk"/></a>
-  <a href="https://instagram.com/serejathecreator"><img src="https://img.icons8.com/clouds/150/000000/instagram-new--v2.png" alt="instagram"/></a>
-  <a href="https://twitter.com/rewoooop"><img src="https://img.icons8.com/clouds/150/40C057/twitter-circled.png" alt="twitter"/></a>
-  <a href="https://github.com/rewoop"><img src="https://img.icons8.com/clouds/150/000000/github.png" alt="github"/></a>
 </p>
 
 <h2 align="center">
